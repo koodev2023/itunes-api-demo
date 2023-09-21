@@ -8,7 +8,10 @@ iTunes API Demo is a web application developed using Flutter that allows users t
 
 ## Screenshots
 
-Include some screenshots or GIFs showcasing the different screens and features of your app. This will give potential users a visual preview of what to expect.
+![image](https://github.com/koodev2023/itunes-api-demo/assets/122968974/b2afb9ca-15f7-4420-87a0-0fd4c30ac2ee)
+![image](https://github.com/koodev2023/itunes-api-demo/assets/122968974/03245f0b-ac20-4dc3-a14c-94af88310c1d)
+![image](https://github.com/koodev2023/itunes-api-demo/assets/122968974/7583adfb-60f7-4c40-b7e1-c644b6fee517)
+![image](https://github.com/koodev2023/itunes-api-demo/assets/122968974/3e5b082d-99e4-44d4-8300-e97fa2f98dc8)
 
 ## Features
 
