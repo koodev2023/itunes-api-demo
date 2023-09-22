@@ -1,6 +1,8 @@
 # iTunes API Demo
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+Web: https://itunes-api-demo.web.app/#/
+Android: Coming soon...
+IOS: Coming soon...
 
 ## Description
 
