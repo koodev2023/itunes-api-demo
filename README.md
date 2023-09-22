@@ -63,7 +63,4 @@ List the technologies, frameworks, and libraries you used to develop the app:
 - iTunes API
 
 ## License
-
-Specify the license under which your app is released. For example, you can use the MIT License:
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
